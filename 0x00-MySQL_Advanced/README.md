@@ -1,1 +1,1 @@
-# Advanced MySQL Concept
+# Advanced MySQL Concepts
