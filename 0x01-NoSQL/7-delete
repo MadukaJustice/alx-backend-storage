@@ -1,0 +1,3 @@
+// A mongodb command that adds a new attribute to a document in the school collection
+
+db.school.deleteMany({ name:"Holberton school" })
