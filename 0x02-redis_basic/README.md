@@ -1,1 +1,1 @@
-# Redis basics with python
+# Redis basics with pytho
